@@ -58,15 +58,14 @@ This project explores customer churn behavior using a real-world telecom dataset
 
 ```
 customer-churn-analysis/
-├── CSV Exports/
-├── notebooks/
-│ └── Churn_Analysis.ipynb
+│── Churn_Analysis.ipynb
 ├── visuals/
 │ ├── churn_distribution.png
 │ ├── churn_by_contract.png
 │ ├── churn_by_tenure.png
 │ ├── monthly_charges_kde.png
 │ └── value_segment_churn.png
+├── Dataset
 ├── README.md
 ```
 
