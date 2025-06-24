@@ -26,30 +26,30 @@ This project explores customer churn behavior using a real-world telecom dataset
 
 ## Key Insights
 
-- 📉 **Churn rate** is ~**[insert your actual churn % here]**, showing a clear class imbalance worth addressing.
-- 📦 Customers on **month-to-month contracts** are **3–5x more likely** to churn than those on longer-term plans.
-- ⏳ **Tenure** is strongly inversely correlated with churn — most churn happens within the first 12 months.
-- 💰 Customers with **higher monthly charges** churn more, possibly due to pricing dissatisfaction.
-- 💸 **Low-value customers** (< $1,000 in total charges) are the most churn-prone group.
-- 🎯 Churn patterns point to **targeted retention strategies**: prioritize short-tenure, low-value, and high-bill customers.
+-  **Churn rate** is ~**[insert your actual churn % here]**, showing a clear class imbalance worth addressing.
+-  Customers on **month-to-month contracts** are **3–5x more likely** to churn than those on longer-term plans.
+-  **Tenure** is strongly inversely correlated with churn — most churn happens within the first 12 months.
+-  Customers with **higher monthly charges** churn more, possibly due to pricing dissatisfaction.
+-  **Low-value customers** (< $1,000 in total charges) are the most churn-prone group.
+-  Churn patterns point to **targeted retention strategies**: prioritize short-tenure, low-value, and high-bill customers.
 
 ---
 
-## 📷 Visualizations
+##  Visualizations
 
-### 📉 Churn Distribution  
+###  Churn Distribution  
 ![Churn Distribution](visuals/churn_distribution.png)
 
-### 📝 Churn by Contract Type  
+###  Churn by Contract Type  
 ![Churn by Contract](visuals/churn_by_contract.png)
 
-### ⏳ Churn by Tenure Group  
+###  Churn by Tenure Group  
 ![Churn by Tenure](visuals/churn_by_tenure.png)
 
-### 💰 Monthly Charges vs Churn  
+###  Monthly Charges vs Churn  
 ![Monthly Charges KDE](visuals/monthly_charges_kde.png)
 
-### 🧮 Churn by Customer Value Segment  
+###  Churn by Customer Value Segment  
 ![Value Segment Churn](visuals/value_segment_churn.png)
 
 ---
