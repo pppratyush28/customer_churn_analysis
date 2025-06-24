@@ -26,7 +26,7 @@ This project explores customer churn behavior using a real-world telecom dataset
 
 ## Key Insights
 
--  **Churn rate** is ~**[insert your actual churn % here]**, showing a clear class imbalance worth addressing.
+-  **Churn rate** is ~**26.5 %**, showing a clear class imbalance worth addressing.
 -  Customers on **month-to-month contracts** are **3–5x more likely** to churn than those on longer-term plans.
 -  **Tenure** is strongly inversely correlated with churn — most churn happens within the first 12 months.
 -  Customers with **higher monthly charges** churn more, possibly due to pricing dissatisfaction.
